@@ -133,6 +133,6 @@ Buzzer Volume: 5
 ## 🌐 Simulasi Online
 
 Proyek ini dapat disimulasikan di [Wokwi](https://wokwi.com/projects/449126163689876481):
-```http
+```bash
 https://wokwi.com/projects/449126163689876481
 ```
